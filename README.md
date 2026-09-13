@@ -17,9 +17,9 @@ You decide that your app will have 3 buttons, each with a different probability 
 - Your **Student ID Number AND CCID indicated clearly** somewhere on your app
 
 ## Submission Specification
-- LICENSE your assignment with an opensource license. Add a LICENSE.md file to the root directory of the assignment that contains an opensource license that will be used for the assignment.
-  - Apache 2.0 or GPL 3.0 or AGPL 3.0 are recommended
-- Once you finish making the decision-making app, **screen-record a video, no longer than 1 minute**, showcasing the actions in the following order:
+- LICENSE your assignment with an opensource license. **Add a LICENSE.md file** to your zip file that contains an opensource license that will be used for the assignment.
+    - Apache 2.0 or GPL 3.0 or AGPL 3.0 are recommended
+- Once you finish making the decision-making app, **screen-record a video, no longer than 1 minute** showcasing the actions in the following order:
 1. Click the 1st button 6 times
 2. Click the 2nd button 8 times
 3. Click the 3rd button 10 times
@@ -28,8 +28,9 @@ You decide that your app will have 3 buttons, each with a different probability 
 > - Please pause for a brief moment in between clicks so that outputs can be clearly seen
 > - You may be unlucky enough that the output stays the same for all 30 (or more) clicks. Try recording the video again so we can see that the output isn't hardcoded.
 
+
 > [!IMPORTANT]
-> - You will need to **submit a zip file containing the video on Canvas**
+> - You will need to **submit a zip file containing BOTH the video and LICENSE.md on Canvas**
 > - **Name the zip file and your video file `[your CCID]_decision_making_app`**. For example, the zip file as `student1_decision_making_app.zip` and the video file as `student1_decision_making_app.mp4`
 > - We have included a bash script called `check_filename_a0.sh` that you can use to check the name of your zip file. Put the bash script in the same directory as the zip file, and then run it.
 
